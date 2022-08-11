@@ -1,4 +1,4 @@
-## olá, me chamo Matheus e sou estudante de desenvolvimento e pretendo me tornar um dev full stack 
+## olá, me chamo Matheus e sou estudante de desenvolvimento web e pretendo me tornar um dev full stack 
 <div align="center">
   <a href="https://github.com/MatheusAI">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=matheusAI&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
