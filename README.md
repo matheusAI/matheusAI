@@ -20,8 +20,8 @@ olá, me chamo Matheus<br>sou desenvolvimento full stack
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=matheusAI&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=matheusAI&theme=monokai&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=matheusAI&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=matheusAI&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusAI&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
