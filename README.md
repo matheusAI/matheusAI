@@ -1,5 +1,5 @@
 # 💫 sobre mim:
-olá, me chamo Matheus<br>sou desenvolvimento full stack
+olá, me chamo Matheus<br>sou desenvolvedor full stack
 
 
 ## 🌐 Socials:
