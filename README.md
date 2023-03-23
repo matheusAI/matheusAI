@@ -1,5 +1,25 @@
 # 💫 sobre mim:
-olá, me chamo Matheus<br>sou desenvolvedor full stack
+Olá, sou Matheus, 
+desenvolvedor web full-stack com experiência 
+em Javascript, HTML, CSS, nude.js, SQL, 
+React.js, Typescript, Git e Github, 
+além de habilidades em planejamento 
+e gestão de projetos.
+
+Com uma paixão por tecnologia e inovação, 
+trabalho para oferecer soluções mais eficientes 
+e modernas para os meus clientes. 
+Estou sempre em busca de novas ferramentas 
+e técnicas para aprimorar minhas habilidades 
+e entregar projetos com sucesso, 
+dentro do prazo e do orçamento.
+
+Se você está procurando 
+um desenvolvedor web full-stack para trazer 
+soluções inovadoras e eficientes para sua 
+empresa, entre em contato comigo para 
+conversarmos sobre seu projeto. 
+<br>Obrigado pela visita ao meu Github!
 
 
 ## 🌐 Socials:
