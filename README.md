@@ -40,7 +40,8 @@ conversarmos sobre seu projeto.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 # 📊 GitHub Status:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusAI)](https://github.com/matheusAI/github-readme-stats)<br/>
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusAI&show_icons=true&theme=monokai&count_private=true)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusAI&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
