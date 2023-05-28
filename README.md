@@ -43,5 +43,4 @@ conversarmos sobre seu projeto.
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusAI&show_icons=true&theme=monokai&count_private=true)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusAI&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusAI&bg_color=242424&color=00ffff&line=005c5c&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
