@@ -1,7 +1,7 @@
 # 💫 sobre mim:
 Olá, sou Matheus, 
 desenvolvedor web full-stack com experiência 
-em Javascript, HTML, CSS, node.js, SQL, Git e Github, 
+em Typescript, NEST.js, NEXT.js, Node.js, Banco de dados SQL e NoSQL, Git, 
 além de habilidades em planejamento 
 e gestão de projetos.
 
